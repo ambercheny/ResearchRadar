@@ -31,8 +31,8 @@ from parameters.topics import ALL_TOPICS
 LOOKBACK_DAYS = 1  # how many days back to search across all sources
 TOP_N = 20  # number of full cards to show
 
-EMAIL_FROM = "bionewsdigest@gmail.com"
-EMAIL_TO = ["bionewsdigest@gmail.com"] #, "ychen124@uw.edu"
+EMAIL_FROM = "your-email"
+EMAIL_TO = ["your-email"] 
 
 
 
