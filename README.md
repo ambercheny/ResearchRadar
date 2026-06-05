@@ -1,6 +1,7 @@
 # Daily Paper Digest Workflow
 
-Automated morning workflow that fetches new papers from multiple sources and delivers a curated digest based on topics, authors, and journals.
+Automated morning workflow that fetches new papers from multiple sources and delivers a curated digest based on topics, authors, and journals.\
+Inspired by Utpal Kumar <https://github.com/earthinversion>
 
 ## Sources
 
